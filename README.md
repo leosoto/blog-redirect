@@ -1,2 +1,3 @@
-# dummy
-Dummy repository, nothing to see here :)
+# blog-redirect
+
+Just some netlify redirects for my old blog
