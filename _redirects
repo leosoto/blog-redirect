@@ -1,0 +1,8 @@
+https://blog.leosoto.com/ https://medium.com/@leosoto
+https://blog.leosoto.com/:year/:month/*.html https://medium.com/leos-tech-blog/search?q=:splat
+
+https://techblog.leosoto.com/ https://medium.com/leos-tech-blog/
+https://techblog.leosoto.com/* https://medium.com/leos-tech-blog/search?q=:splat
+
+https://arreglandoelmundo.leosoto.com/ https://medium.com/arreglando-el-mundo/
+https://arreglandoelmundo.leosoto.com/* https://medium.com/arreglando-el-mundo/search?q=:splat
