@@ -1,5 +1,5 @@
 https://blog.leosoto.com/ https://medium.com/@leosoto
-https://blog.leosoto.com/:year/:month/*.html https://medium.com/leos-tech-blog/search?q=:splat
+https://blog.leosoto.com/* https://medium.com/leos-tech-blog/search?q=:splat
 
 https://techblog.leosoto.com/ https://medium.com/leos-tech-blog/
 https://techblog.leosoto.com/* https://medium.com/leos-tech-blog/search?q=:splat
